@@ -6,7 +6,7 @@
 ### Election Audit Results
 The results I got are the following:
 
-<img src="result.png" style="width: 350px; height: 350px;">
+<img src="results.png" style="width: 350px; height: 350px;">
 
 How many votes were cast in this congressional election?
 - Total votes were 369,711
